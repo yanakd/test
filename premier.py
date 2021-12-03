@@ -2,6 +2,7 @@ print("premier")
 print("test d'un file dans le dossier main ")
 print("test changements dans VScode")
 print("still a test")
+
 un="pour push on va dans source control, on refresh"
 deux="on fait ctrl+enter (dans barre de message)"
 trois="ensuite on fait yes et puis on fait juste enter"
